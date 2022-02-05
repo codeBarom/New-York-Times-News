@@ -1,8 +1,6 @@
-# NY Times - A NewYork Times most popular news App (Kotlin)
+# NY Times - A NewYork Times most popular news app (developed in pure Kotlin)
 
 A basic master/detail android application which shows most popular viewed news from NYTimes using its public api.
-
-Refer /media/demo_list.jpg, /media/demo_detail.jpg for demo. 
 
 #### App Features
 * App fetches NYTimes popular news and displays in RecyclerView.
@@ -55,8 +53,8 @@ Refer media/mvvm_data_flow.png for diagram explanation.
 * Simply clone or download the project from github link.
 * Open project in Android Studio, wait for building and syncing sdk, install if anything missing and prompted.
 * After successful building the project, click on the play button on top and wait for the application to install on simulator or device.
-* To check the Junit test cases, right click on com.bindlish.nytimes (test) folder and choose 'Run tests in nytimes with coverage'.
-* To check UI test cases, right click on com.bindlish.nytimes (androidTest) folder and choose 'Run tests in nytimes'.
+* To check the Junit test cases, right click on(test) folder and choose 'Run tests in nytimes with coverage'.
+* To check UI test cases, right click on(androidTest) folder and choose 'Run tests in nytimes'.
 * With coverage option will also show the coverage of the test cases in project.
 
 ##### You can write back to me if you have any suggestion which can improve the architecture and how we can increase the test cases coverage.# New-York-Times-News
