@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <variable
+            name="newsData"
+            type="com.bindlish.nytimes.data.NewsData" />
+    </data>
+    <TextView
+        android:id="@+id/item_detail"
+        style="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="16dp"
+        android:fontFamily="@font/poppins_light "
+        android:text="@{newsData.title}"
+        android:textIsSelectable="true"
+        android:textColor="@color/news_title_color"
+        tools:context=".ui.NewsDetailFragment" />
+</layout>

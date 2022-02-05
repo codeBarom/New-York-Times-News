@@ -1,0 +1,141 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2019 The New York Times Company.  All Rights Reserved.",
+  "num_results": 1716,
+  "results": [
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/11\/13\/movies\/tom-hanks-mister-rogers.html",
+      "adx_keywords": "Movies;Actors and Actresses;A Beautiful Day in the Neighborhood (Movie);Hanks, Tom;Wilson, Rita",
+      "column": null,
+      "section": "Movies",
+      "byline": "By TAFFY BRODESSER-AKNER",
+      "type": "Article",
+      "title": "This Tom Hanks Story Will Help You Feel Less Bad",
+      "abstract": "Hanks is playing Mister Rogers in a new movie and is just as nice as you think he is. Please read this article anyway.",
+      "published_date": "2019-11-13",
+      "source": "The New York Times",
+      "id": 100000006800704,
+      "asset_id": 100000006800704,
+      "views": 1,
+      "des_facet": [
+        "MOVIES"
+      ],
+      "org_facet": [
+        "ACTORS AND ACTRESSES"
+      ],
+      "per_facet": [
+        "HANKS, TOM",
+        "WILSON, RITA"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cI recognized in myself a long time ago that I don\u2019t instill fear in anybody,\u201d Hanks said. \u201cNow, that\u2019s different than being nice, you know? I think I have a cache of mystery. But it\u2019s not one of malevolence.\u201d",
+          "copyright": "Daniel Dorsa for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/17\/arts\/17tom-hanks2-promo\/17tom-hanks2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/17\/arts\/17tom-hanks2-promo\/17tom-hanks2-promo-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/11\/17\/arts\/17tom-hanks2-promo\/17tom-hanks2-promo-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/8837752f-6207-55e9-8cc3-b811091e3a86"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/interactive\/2019\/11\/09\/us\/internet-child-sex-abuse.html",
+      "adx_keywords": "Sex Crimes;Child Abuse and Neglect;Child Pornography;Computers and the Internet;Video Recordings, Downloads and Streaming;Facebook Inc;Dropbox Inc;Data Storage;Social Media;Instant Messaging;Amazon.com Inc;DuckDuckGo;Federal Bureau of Investigation;Google Inc;Homeland Security Department;Kik Messenger;National Center for Missing and Exploited Children;Omegle.com;Skype Technologies;Snap Inc;Tumblr;Yik Yak Inc;YouNow;Yahoo! Inc;Twitter;Stamos, Alex (1979- )",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By MICHAEL H. KELLER and GABRIEL J.X. DANCE",
+      "type": "Interactive",
+      "title": "Child Abusers Run Rampant as Tech Companies Look the Other Way",
+      "abstract": "Though platforms bar child sexual abuse imagery on the web, criminals are exploiting gaps. Victims are caught in a living nightmare, confronting images again and again.",
+      "published_date": "2019-11-09",
+      "source": "The New York Times",
+      "id": 100000006815357,
+      "asset_id": 100000006815357,
+      "views": 2,
+      "des_facet": [
+        "SEX CRIMES",
+        "CHILD ABUSE AND NEGLECT",
+        "CHILD PORNOGRAPHY",
+        "COMPUTERS AND THE INTERNET",
+        "VIDEO RECORDINGS, DOWNLOADS AND STREAMING",
+        "DATA STORAGE",
+        "SOCIAL MEDIA",
+        "INSTANT MESSAGING"
+      ],
+      "org_facet": [
+        "FACEBOOK INC",
+        "DROPBOX INC",
+        "AMAZON.COM INC",
+        "DUCKDUCKGO",
+        "FEDERAL BUREAU OF INVESTIGATION",
+        "GOOGLE INC",
+        "HOMELAND SECURITY DEPARTMENT",
+        "KIK MESSENGER",
+        "NATIONAL CENTER FOR MISSING AND EXPLOITED CHILDREN",
+        "OMEGLE.COM",
+        "SKYPE TECHNOLOGIES",
+        "SNAP INC",
+        "TUMBLR",
+        "YIK YAK INC",
+        "YOUNOW",
+        "YAHOO! INC",
+        "TWITTER"
+      ],
+      "per_facet": [
+        "STAMOS, ALEX (1979- )"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "F. and E. were sexually abused as children. A digital trail of the crimes continues to haunt the sisters a decade later.",
+          "copyright": "Kholood Eid for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/23\/multimedia\/00child-top\/00child-top-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/23\/multimedia\/00child-top\/00child-top-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/10\/23\/multimedia\/00child-top\/00child-top-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/interactive\/7eb56b12-fad5-5534-8988-fb46ba9387f2"
+    }
+  ]
+}
